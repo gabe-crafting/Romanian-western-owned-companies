@@ -1,6 +1,6 @@
 # Romanian Western-Linked SRL Directory (Pilot)
 
-Research shortlist of **34 active Romanian SRLs** with credible public evidence of Western ownership or leadership. This is **not legal due diligence**.
+Research shortlist of **39 active Romanian SRLs** with credible public evidence of Western ownership or leadership. This is **not legal due diligence**.
 
 **Access date for all sources:** 2026-07-10
 
@@ -68,6 +68,23 @@ Sorted by evidence label priority (**Likely Western-owned** first), then confide
 | 32 | MOTT MACDONALD ROMANIA SRL | 11071473 | 18 (2025) | No | UK parent | [profile](companies/mott-macdonald-romania-srl.md) |
 | 33 | BUTLERS WALSALL SRL | 37624305 | 1 (2025) | Yes | UK foreign capital | [profile](companies/butlers-walsall-srl.md) |
 | 34 | INTERNATIONAL HOSPITALS GROUP ROMANIA SRL | 48287477 | 0 (2025) | Yes | UK parent (IHG) | [profile](companies/international-hospitals-group-romania-srl.md) |
+| 35 | EUROPEAN FABRICATIONS SRL | 21480661 | 82 (2025) | No | UK parent (Mec Com) | [profile](companies/european-fabrications-srl.md) |
+| 36 | DS SMITH PAPER ZARNESTI SRL | 1124988 | 191 (2025) | No | UK DS Smith group | [profile](companies/ds-smith-paper-zarnesti-srl.md) |
+| 37 | DS SMITH PACKAGING GHIMBAV SRL | 1132506 | 178 (2025) | No | UK DS Smith group | [profile](companies/ds-smith-packaging-ghimbav-srl.md) |
+| 38 | DS SMITH PACKAGING ROMANIA SRL | 14787842 | 215 (2025) | No | UK DS Smith group | [profile](companies/ds-smith-packaging-romania-srl.md) |
+| 39 | INTERTEK INDUSTRY SERVICES ROMANIA SRL | 12841309 | 8 (2025) | Yes | UK parent (Intertek) | [profile](companies/intertek-industry-services-romania-srl.md) |
+
+## Regional UK expansion (2026-07-10)
+
+Five **Verified Western-owned** profiles extend UK coverage beyond Muntenia into **Cluj**, **Brașov** and **Timiș** (Banat), plus a Bucharest testing subsidiary:
+
+- **EUROPEAN FABRICATIONS SRL** — Mec Com (UK) contract manufacturing; Cluj-Napoca; 82 employees ([profile](companies/european-fabrications-srl.md)).
+- **DS SMITH PAPER ZARNESTI SRL** — UK DS Smith paper mill; Zărnești, Brașov; 191 employees ([profile](companies/ds-smith-paper-zarnesti-srl.md)).
+- **DS SMITH PACKAGING GHIMBAV SRL** — DS Smith corrugated packaging; Ghimbav, Brașov; 178 employees ([profile](companies/ds-smith-packaging-ghimbav-srl.md)).
+- **DS SMITH PACKAGING ROMANIA SRL** — DS Smith box plant; Timișoara, Timiș; 215 employees ([profile](companies/ds-smith-packaging-romania-srl.md)).
+- **INTERTEK INDUSTRY SERVICES ROMANIA SRL** — Intertek Group (UK) testing lab; Bucharest S5; 8 employees ([profile](companies/intertek-industry-services-romania-srl.md)).
+
+**Still under-represented after this pass:** Iași, Constanța, Sibiu, Dolj, Bihor, Mureș, Harghita (no new verified UK-owned SME matches found with public sources).
 
 ## Muntenia / UK expansion (2026-07-10)
 
@@ -87,20 +104,36 @@ Prahova, Argeș, Dâmbovița and other Muntenia counties still lack verified UK-
 
 ## Micro / low-profile summary
 
-**17 of 34** entries are tagged **Micro / low-profile** (1–10 employees in latest filed year, or filed micro headcount with caveats noted in profile).
+**18 of 39** entries are tagged **Micro / low-profile** (1–10 employees in latest filed year, or filed micro headcount with caveats noted in profile).
 
 Strongest micro/low-profile British-linked candidates for follow-up:
 - ALBION SERVICES SRL
 - AIR BP SALES ROMANIA SRL
 - BUTLERS WALSALL SRL
 - CLUJ STUDY CENTRE SRL
+- INTERTEK INDUSTRY SERVICES ROMANIA SRL
 - LA POIATA RETREAT SRL
 - DUNLOP MILLS SRL
 - GLEEDS ROMANIA SRL
 
 ## Excluded during quality pass
 
-These were researched but excluded from the 34:
+These were researched but excluded from the 39:
+
+**Regional UK pass (2026-07-10):**
+- **ACCESS WORKSPACE ROMANIA SRL** (CUI 22117584) — verified UK Access Group heritage; Timișoara; ~1,296 employees (above SME scope)
+- **SCC SERVICES ROMANIA SRL** (CUI 18544528) — ONRC UK capital marker; Iași; ~1,137 employees
+- **ENDAVA ROMANIA SRL** (CUI 9533457) — UK Endava plc subsidiary; Cluj; ~4,023 employees
+- **LSEG BUSINESS SERVICES RM SRL** (CUI 39176747) — UK LSEG parent; Bucharest/Cluj; ~1,143 employees
+- **BETFAIR ROMANIA DEVELOPMENT SRL** — Flutter/UK heritage; Cluj; ~2,000+ employees
+- **SIGNANT HEALTH SRL** (CUI 36985115) — Iași; US Genstar-backed group (CRF Health merger), not UK-owned
+- **VAST VISIBILITY LIMITED LIVERPOOL SUCURSALA IASI** (CUI 38483379) — UK branch, not SRL
+- **ELSTER ROMETRICS SRL** (CUI 6552969) — Timiș; Honeywell (US) group, not UK-owned
+- **Corporate Office Solutions SRL** — multi-city presence but Romanian/Sarmis Capital-owned despite BRCC membership
+- **British Explore / British Pub / British Camps / British Star / British Group** — name-only British branding; no UK ownership evidence
+- **CMA Ships Romania SRL** (Constanța) — foreign capital but French CMA CGM group, not UK
+- **Hoeganaes Corporation Europe SA** (Buzău) — UK GKN heritage but SA legal form and 2026 Dowlais/Dauch restructuring; not SRL
+- **Raffles Energy SRL** (CUI 7745453) — credible UK parent historically; pending sale to Romanian Foraj Sonde (Apr 2026); Bucharest-only
 
 **Muntenia / UK pass (2026-07-10, second wave):**
 - **TURNER & TOWNSEND PJM ROMANIA SRL** (CUI 53821520) — incorporated Feb 2026; no filed financials yet; UK group presence credible but entity too new
@@ -140,6 +173,3 @@ These were researched but excluded from the 34:
 ## Optional next step
 
 For the strongest candidates, a paid ONRC beneficial-owner request would move several **Likely Western-owned** and **Western-led** entries toward **Verified**.
-#   R o m a n i a n - w e s t e r n - o w n e d - c o m p a n i e s 
- 
- 
