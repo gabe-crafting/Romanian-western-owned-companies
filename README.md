@@ -1,6 +1,6 @@
 # Romanian Western-Linked SRL Directory (Pilot)
 
-Research shortlist of **39 active Romanian SRLs** with credible public evidence of Western ownership or leadership. This is **not legal due diligence**.
+Research shortlist of **43 active Romanian SRLs** with credible public evidence of Western ownership or leadership. This is **not legal due diligence**.
 
 **Access date for all sources:** 2026-07-10
 
@@ -35,44 +35,48 @@ Sorted by evidence label priority (**Likely Western-owned** first), then confide
 | 9 | PROFIHAIRSHOP DISTRIBUTIE SRL | 22279470 | 82 (2024) | No | German investor/co-founder | [profile](companies/profihairshop-distributie-srl.md) |
 | 10 | PORTLAND MANAGEMENT SRL | 13488869 | 9 (2025) | Yes | Czech/Western developer (Portland Trust) | [profile](companies/portland-management-srl.md) |
 | 11 | CLUJ STUDY CENTRE SRL | 38269325 | 1 (2024) | Yes | British founder | [profile](companies/cluj-study-centre-srl.md) |
+| 12 | LOGICENT TLO SRL | 36892857 | 21 (2025) | No | British co-owner (Keith Page) | [profile](companies/logicent-tlo-srl.md) |
 
 ### Western-led, ownership unclear
 
 | # | Company | CUI | Employees | Micro / low-profile | Western link | Profile |
 |---|---------|-----|-----------|---------------------|--------------|---------|
-| 12 | CARPATHIAN NATURE TOURS SRL | 12499819 | 7 (2025) | Yes | German-born co-founder | [profile](companies/carpathian-nature-tours-srl.md) |
-| 13 | ALBION SERVICES SRL | 37986208 | 1 (2025) | Yes | British managing director | [profile](companies/albion-services-srl.md) |
-| 14 | BFS INTERNATIONAL SRL | 37617898 | 1 (2020, stale) | Yes | British-branded football school | [profile](companies/bfs-international-srl.md) |
-| 15 | BRISK GROUP CONSULTING & DEVELOPMENT SRL | 36243035 | 42 (2024) | No | British-national founder | [profile](companies/brisk-group-consulting-development-srl.md) |
-| 16 | ISOSKILLS GROUP SRL | 38292530 | 12 (2025) | No | Finnish-led group | [profile](companies/isoskills-group-srl.md) |
+| 13 | CARPATHIAN NATURE TOURS SRL | 12499819 | 7 (2025) | Yes | German-born co-founder | [profile](companies/carpathian-nature-tours-srl.md) |
+| 14 | ALBION SERVICES SRL | 37986208 | 1 (2025) | Yes | British managing director | [profile](companies/albion-services-srl.md) |
+| 15 | BFS INTERNATIONAL SRL | 37617898 | 1 (2020, stale) | Yes | British-branded football school | [profile](companies/bfs-international-srl.md) |
+| 16 | BRISK GROUP CONSULTING & DEVELOPMENT SRL | 36243035 | 42 (2024) | No | British-national founder | [profile](companies/brisk-group-consulting-development-srl.md) |
+| 17 | ISOSKILLS GROUP SRL | 38292530 | 12 (2025) | No | Finnish-led group | [profile](companies/isoskills-group-srl.md) |
 
 ### Verified Western-owned
 
 | # | Company | CUI | Employees | Micro / low-profile | Western link | Profile |
 |---|---------|-----|-----------|---------------------|--------------|---------|
-| 17 | TRANSYLVANIA FOOD COMPANY SRL | 26381774 | 11 (2024) | No | Scottish CEO / UK parent | [profile](companies/transylvania-food-company-srl.md) |
-| 18 | CARL REH WINERY SRL | 6121230 | 98 (2025) | No | German parent (Reh Kendermann) | [profile](companies/carl-reh-winery-srl.md) |
-| 19 | AMB WINE COMPANY SRL | 17995031 | 25 (2024) | No | Austrian parent (amb Holding) | [profile](companies/amb-wine-company-srl.md) |
-| 20 | DUNLOP MILLS SRL | 12271909 | 7 (2025) | Yes | UK subsidiary | [profile](companies/dunlop-mills-srl.md) |
-| 21 | APERIO INTELLIGENCE ROMANIA SRL | 36709608 | 13 | No | UK parent | [profile](companies/aperio-intelligence-romania-srl.md) |
-| 22 | GLEEDS ROMANIA SRL | 12846640 | 5 (2025) | Yes | UK group | [profile](companies/gleeds-romania-srl.md) |
-| 23 | RECOMMERCE DEVICES AND SOLUTIONS RO SRL | 44543653 | 1 filed / ~18 group | Yes | French parent group | [profile](companies/recommerce-devices-and-solutions-ro-srl.md) |
-| 24 | WIRTEK SRL | 18788530 | 63 (2025) | No | Danish parent | [profile](companies/wirtek-srl.md) |
-| 25 | TECONNEX EUROPE S.R.L. | 39332757 | 202 (2024) | No | UK parent (Teconnex / Hexadex) | [profile](companies/teconnex-europe-srl.md) |
-| 26 | M247 EUROPE SRL | 30203422 | 72 (2025) | No | UK-founded M247 group | [profile](companies/m247-europe-srl.md) |
-| 27 | HILL INTERNATIONAL (BUCHAREST) SRL | 16489575 | 14 (2025) | No | UK parent (Hill International UK Ltd) | [profile](companies/hill-international-bucharest-srl.md) |
-| 28 | DECODED TALENT SRL | 52080720 | 1 (2025) | Yes | UK foreign capital | [profile](companies/decoded-talent-srl.md) |
-| 29 | AIR BP SALES ROMANIA SRL | 9268016 | 1 (2024) | Yes | UK bp / Air BP group | [profile](companies/air-bp-sales-romania-srl.md) |
-| 30 | ROMANIAN FUELLING SERVICES SRL | 9268008 | 10 (2024) | No | UK bp / Air BP group | [profile](companies/romanian-fuelling-services-srl.md) |
-| 31 | WOOD OPERATIONS SRL | 29085455 | 11 (2025) | No | UK Wood group | [profile](companies/wood-operations-srl.md) |
-| 32 | MOTT MACDONALD ROMANIA SRL | 11071473 | 18 (2025) | No | UK parent | [profile](companies/mott-macdonald-romania-srl.md) |
-| 33 | BUTLERS WALSALL SRL | 37624305 | 1 (2025) | Yes | UK foreign capital | [profile](companies/butlers-walsall-srl.md) |
-| 34 | INTERNATIONAL HOSPITALS GROUP ROMANIA SRL | 48287477 | 0 (2025) | Yes | UK parent (IHG) | [profile](companies/international-hospitals-group-romania-srl.md) |
-| 35 | EUROPEAN FABRICATIONS SRL | 21480661 | 82 (2025) | No | UK parent (Mec Com) | [profile](companies/european-fabrications-srl.md) |
-| 36 | DS SMITH PAPER ZARNESTI SRL | 1124988 | 191 (2025) | No | UK DS Smith group | [profile](companies/ds-smith-paper-zarnesti-srl.md) |
-| 37 | DS SMITH PACKAGING GHIMBAV SRL | 1132506 | 178 (2025) | No | UK DS Smith group | [profile](companies/ds-smith-packaging-ghimbav-srl.md) |
-| 38 | DS SMITH PACKAGING ROMANIA SRL | 14787842 | 215 (2025) | No | UK DS Smith group | [profile](companies/ds-smith-packaging-romania-srl.md) |
-| 39 | INTERTEK INDUSTRY SERVICES ROMANIA SRL | 12841309 | 8 (2025) | Yes | UK parent (Intertek) | [profile](companies/intertek-industry-services-romania-srl.md) |
+| 18 | TRANSYLVANIA FOOD COMPANY SRL | 26381774 | 11 (2024) | No | Scottish CEO / UK parent | [profile](companies/transylvania-food-company-srl.md) |
+| 19 | CARL REH WINERY SRL | 6121230 | 98 (2025) | No | German parent (Reh Kendermann) | [profile](companies/carl-reh-winery-srl.md) |
+| 20 | AMB WINE COMPANY SRL | 17995031 | 25 (2024) | No | Austrian parent (amb Holding) | [profile](companies/amb-wine-company-srl.md) |
+| 21 | DUNLOP MILLS SRL | 12271909 | 7 (2025) | Yes | UK subsidiary | [profile](companies/dunlop-mills-srl.md) |
+| 22 | APERIO INTELLIGENCE ROMANIA SRL | 36709608 | 13 | No | UK parent | [profile](companies/aperio-intelligence-romania-srl.md) |
+| 23 | GLEEDS ROMANIA SRL | 12846640 | 5 (2025) | Yes | UK group | [profile](companies/gleeds-romania-srl.md) |
+| 24 | RECOMMERCE DEVICES AND SOLUTIONS RO SRL | 44543653 | 1 filed / ~18 group | Yes | French parent group | [profile](companies/recommerce-devices-and-solutions-ro-srl.md) |
+| 25 | WIRTEK SRL | 18788530 | 63 (2025) | No | Danish parent | [profile](companies/wirtek-srl.md) |
+| 26 | TECONNEX EUROPE S.R.L. | 39332757 | 202 (2024) | No | UK parent (Teconnex / Hexadex) | [profile](companies/teconnex-europe-srl.md) |
+| 27 | M247 EUROPE SRL | 30203422 | 72 (2025) | No | UK-founded M247 group | [profile](companies/m247-europe-srl.md) |
+| 28 | HILL INTERNATIONAL (BUCHAREST) SRL | 16489575 | 14 (2025) | No | UK parent (Hill International UK Ltd) | [profile](companies/hill-international-bucharest-srl.md) |
+| 29 | DECODED TALENT SRL | 52080720 | 1 (2025) | Yes | UK foreign capital | [profile](companies/decoded-talent-srl.md) |
+| 30 | AIR BP SALES ROMANIA SRL | 9268016 | 1 (2024) | Yes | UK bp / Air BP group | [profile](companies/air-bp-sales-romania-srl.md) |
+| 31 | ROMANIAN FUELLING SERVICES SRL | 9268008 | 10 (2024) | No | UK bp / Air BP group | [profile](companies/romanian-fuelling-services-srl.md) |
+| 32 | WOOD OPERATIONS SRL | 29085455 | 11 (2025) | No | UK Wood group | [profile](companies/wood-operations-srl.md) |
+| 33 | MOTT MACDONALD ROMANIA SRL | 11071473 | 18 (2025) | No | UK parent | [profile](companies/mott-macdonald-romania-srl.md) |
+| 34 | BUTLERS WALSALL SRL | 37624305 | 1 (2025) | Yes | UK foreign capital | [profile](companies/butlers-walsall-srl.md) |
+| 35 | INTERNATIONAL HOSPITALS GROUP ROMANIA SRL | 48287477 | 0 (2025) | Yes | UK parent (IHG) | [profile](companies/international-hospitals-group-romania-srl.md) |
+| 36 | EUROPEAN FABRICATIONS SRL | 21480661 | 82 (2025) | No | UK parent (Mec Com) | [profile](companies/european-fabrications-srl.md) |
+| 37 | DS SMITH PAPER ZARNESTI SRL | 1124988 | 191 (2025) | No | UK DS Smith group | [profile](companies/ds-smith-paper-zarnesti-srl.md) |
+| 38 | DS SMITH PACKAGING GHIMBAV SRL | 1132506 | 178 (2025) | No | UK DS Smith group | [profile](companies/ds-smith-packaging-ghimbav-srl.md) |
+| 39 | DS SMITH PACKAGING ROMANIA SRL | 14787842 | 215 (2025) | No | UK DS Smith group | [profile](companies/ds-smith-packaging-romania-srl.md) |
+| 40 | INTERTEK INDUSTRY SERVICES ROMANIA SRL | 12841309 | 8 (2025) | Yes | UK parent (Intertek) | [profile](companies/intertek-industry-services-romania-srl.md) |
+| 41 | LAYERSHIFT TECHNOLOGIES SRL | 24647099 | 12 (2025) | No | UK parent (Layershift Limited) | [profile](companies/layershift-technologies-srl.md) |
+| 42 | APPSBROKER SRL | 33421464 | 56 (2025) | No | UK parent (Qodea / Appsbroker) | [profile](companies/appsbroker-srl.md) |
+| 43 | ADVANTAGE UTILITIES SRL | 46015476 | 15 (2025) | No | UK parent (Advantage Utilities Ltd) | [profile](companies/advantage-utilities-srl.md) |
 
 ## Regional UK expansion (2026-07-10)
 
@@ -84,7 +88,20 @@ Five **Verified Western-owned** profiles extend UK coverage beyond Muntenia into
 - **DS SMITH PACKAGING ROMANIA SRL** — DS Smith box plant; Timișoara, Timiș; 215 employees ([profile](companies/ds-smith-packaging-romania-srl.md)).
 - **INTERTEK INDUSTRY SERVICES ROMANIA SRL** — Intertek Group (UK) testing lab; Bucharest S5; 8 employees ([profile](companies/intertek-industry-services-romania-srl.md)).
 
-**Still under-represented after this pass:** Iași, Constanța, Sibiu, Dolj, Bihor, Mureș, Harghita (no new verified UK-owned SME matches found with public sources).
+**Still under-represented after this pass:** Constanța, Sibiu, Dolj (prior regional gaps; see Ardeal/Moldavia pass below for Iași and Vaslui additions).
+
+## Ardeal / Moldavia UK expansion (2026-07-10)
+
+Four profiles extend UK-linked coverage into **Moldavia** (Iași, Vaslui) and add a Cluj hosting subsidiary:
+
+- **APPSBROKER SRL** — Qodea / Appsbroker UK Google Cloud partner; Iași; 56 employees ([profile](companies/appsbroker-srl.md)).
+- **ADVANTAGE UTILITIES SRL** — Advantage Utilities Ltd UK energy consultancy; Tomești, Iași; 15 employees ([profile](companies/advantage-utilities-srl.md)).
+- **LOGICENT TLO SRL** — British co-owner Keith Page (50% per press); Vaslui; 21 employees ([profile](companies/logicent-tlo-srl.md)).
+- **LAYERSHIFT TECHNOLOGIES SRL** — Layershift Limited UK managed hosting; Cluj-Napoca; 12 employees ([profile](companies/layershift-technologies-srl.md)).
+
+**Still under-represented after this pass:** Sibiu, Bacău, Suceava, Neamț, Botoșani, Galați, Bihor, Mureș, Harghita, Alba, Hunedoara, Satu Mare, Covasna, Bistrița-Năsăud.
+
+**Excluded (researched):** SCC Services Romania (~1,137 employees); Plexus Services RO (~1,811); SEWS Romania (~2,154); Liberty Galați SA; Suceava Shopping City (Romanian capital on ONRC); POWER ANALYTICS SRL (UK not confirmed); JJJ LEJER GROPE (fiscally inactive); IMPORT UK FINE (Romanian capital); GREENFIELD AGRICULTURE / UNIBA FARM (UK not specified).
 
 ## Muntenia / UK expansion (2026-07-10)
 
@@ -104,7 +121,7 @@ Prahova, Argeș, Dâmbovița and other Muntenia counties still lack verified UK-
 
 ## Micro / low-profile summary
 
-**18 of 39** entries are tagged **Micro / low-profile** (1–10 employees in latest filed year, or filed micro headcount with caveats noted in profile).
+**18 of 43** entries are tagged **Micro / low-profile** (1–10 employees in latest filed year, or filed micro headcount with caveats noted in profile).
 
 Strongest micro/low-profile British-linked candidates for follow-up:
 - ALBION SERVICES SRL
@@ -118,7 +135,20 @@ Strongest micro/low-profile British-linked candidates for follow-up:
 
 ## Excluded during quality pass
 
-These were researched but excluded from the 39:
+These were researched but excluded from the 43:
+
+**Ardeal / Moldavia pass (2026-07-10):**
+- **SCC SERVICES ROMANIA SRL** (CUI 18544528) — ONRC UK capital marker; Iași; ~1,137 employees (above SME scope)
+- **PLEXUS SERVICES RO SRL** — UK subsidiary; Oradea, Bihor; ~1,811 employees
+- **SEWS ROMANIA SRL** — UK-linked heritage; Deva, Hunedoara; ~2,154 employees (Sumitomo group)
+- **LIBERTY GALATI SA** (CUI 1639739) — UK shareholder heritage; SA not SRL; ~4,772 employees
+- **SUCEAVA SHOPPING CITY SRL** — M Core UK acquisition press; Bucharest legal seat; Romanian capital on ONRC
+- **POWER ANALYTICS SRL** (CUI 52379080) — Sibiu; foreign capital; UK shareholder not confirmed in free sources
+- **JJJ LEJER GROPE SRL** (CUI 22343913) — Bacău; UK/foreign capital; fiscally inactive since Dec 2024
+- **IMPORT UK FINE SRL** (CUI 31300547) — Neamț; Romanian capital despite name
+- **GREENFIELD AGRICULTURE SRL** (CUI 48156170) — Alba; foreign capital; UK not specified in free ONRC snippets
+- **UNIBA FARM SRL** (CUI 26077539) — Galați; foreign capital; property leasing; UK parent not identified
+- **SINAROM MINING GROUP SRL** (Suceava) — UK parent Vast Resources; insolvency
 
 **Regional UK pass (2026-07-10):**
 - **ACCESS WORKSPACE ROMANIA SRL** (CUI 22117584) — verified UK Access Group heritage; Timișoara; ~1,296 employees (above SME scope)
