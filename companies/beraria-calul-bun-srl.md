@@ -8,10 +8,28 @@
 - **Location:** Buzău
 - **Industry / CAEN:** 1105 — Manufacture of beer
 
+## What it does
+- Craft beer manufacture (CAEN 1105) in Buzău under the One Beer Later brand.
+- Artisan lagers, ales and non-alcoholic beers sold online and through retail channels.
+- Romanian craft brewery influenced by French and American brewing traditions.
+
 ## Size
 - **Employees:** 3 (2024)
 - **Turnover:** 746,036 RON (2024)
 - **Micro / low-profile (1–10 employees):** Yes
+
+## Parent / group
+Founder-operated — no separate parent page
+
+## Online presence
+- **Website:** https://www.onebeerlater.com/
+- **Facebook:** https://www.facebook.com/onebeerlater
+- **Instagram:** https://www.instagram.com/onebeerlaterro/
+
+## Short history
+- Brand site lists Berăria Calul Bun SRL as legal operator of One Beer Later ([One Beer Later](https://www.onebeerlater.com/policies/contact-information)).
+- 2019–2021 press identifies French co-founder François-Xavier D'Hollander ([Romania Insider](https://www.romania-insider.com/francois-xavier-dhollander-one-beer-later-2021)).
+- Romanian co-founder Ionuț Stoian handles commercial side; ownership split remains unclear ([TopFirme](https://www.topfirme.com/afacere/ber%C4%83ria-calul-bun-srl/5oh49gr9ek/)).
 
 ## Western link
 - **Relevant people / parent:** François-Xavier D'Hollander

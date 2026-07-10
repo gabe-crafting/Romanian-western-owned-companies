@@ -51,7 +51,22 @@ Use ONRC to verify candidates found via commercial platforms; not for bulk natio
 2. Deep-check complex structures with Orbis if available.
 3. Verify shortlisted SRLs via ONRC Certificat Constatator or registry snippets.
 4. Document in `companies/<slug>.md` using existing labels: Likely Western-owned / Western-led, ownership unclear / Verified Western-owned.
-5. Regenerate UI data: `node scripts/build-data.mjs`.
+5. For each company **and** any non-Romanian parent, also capture: **website**, **social media**, **short sourced history**.
+6. Parent companies get their own `parents/<slug>.md` (not indexed in search); link from Romanian SRL profile.
+7. Regenerate UI data: `node scripts/build-data.mjs`.
+
+## Parent pages and profile enrichment
+
+- **Romanian SRL profiles** live in `companies/` and appear in the filter UI.
+- **Parent / group profiles** live in `parents/` (UK Ltd, GmbH, Oy, etc.). Link from SRL profile; **never** add parents to search index.
+- When researching any entity, map:
+  - **What it does** — plain-language business activity (products, services, customers)
+  - Official website(s)
+  - Social media: LinkedIn, Facebook, Instagram, X (only verified URLs from site footer or official profiles)
+  - Short history (2–4 bullets, sourced; note uncertainty)
+- Apply the same fields to parent pages.
+- Standard SRL sections (after Identity): `## What it does`, then `## Size`, then `## Parent / group`, `## Online presence`, `## Short history`.
+- Online presence format: Website, LinkedIn, Facebook, Instagram, X — omit lines with no verified URL.
 
 ## Project constraints (do not override)
 

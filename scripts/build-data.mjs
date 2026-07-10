@@ -4,6 +4,7 @@ import { fileURLToPath } from "url";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const companiesDir = join(root, "companies");
+const parentsDir = join(root, "parents");
 const readme = readFileSync(join(root, "README.md"), "utf8");
 
 const westernLinkBySlug = {};
@@ -92,15 +93,33 @@ const companies = files
   })
   .sort((a, b) => a.name.localeCompare(b.name));
 
-writeFileSync(
-  join(root, "data", "companies.json"),
-  JSON.stringify({ generated: new Date().toISOString().slice(0, 10), companies }, null, 2)
-);
+function parseParent(md, slug) {
+  const title = md.match(/^# (.+)$/m)?.[1] ?? slug;
+  return { slug, name: title, markdown: md };
+}
 
-const jsPayload = { generated: new Date().toISOString().slice(0, 10), companies };
+const parentFiles = readdirSync(parentsDir).filter((f) => f.endsWith(".md"));
+const parents = parentFiles
+  .map((file) => {
+    const slug = file.replace(".md", "");
+    const md = readFileSync(join(parentsDir, file), "utf8");
+    return parseParent(md, slug);
+  })
+  .sort((a, b) => a.name.localeCompare(b.name));
+
+const payload = {
+  generated: new Date().toISOString().slice(0, 10),
+  companies,
+  parents,
+};
+
+writeFileSync(join(root, "data", "companies.json"), JSON.stringify(payload, null, 2));
+
 writeFileSync(
   join(root, "js", "companies-data.js"),
-  `window.COMPANIES_DATA = ${JSON.stringify(jsPayload)};\n`
+  `window.COMPANIES_DATA = ${JSON.stringify(payload)};\n`
 );
 
-console.log(`Wrote ${companies.length} companies to data/companies.json and js/companies-data.js`);
+console.log(
+  `Wrote ${companies.length} companies and ${parents.length} parents to data/companies.json and js/companies-data.js`
+);

@@ -8,10 +8,29 @@
 - **Location:** Cluj-Napoca
 - **Industry / CAEN:** 6220 — IT consultancy and computer facilities management
 
+## What it does
+- IT consultancy (CAEN 6220) — Cluj-Napoca office of London-based Aperio Intelligence.
+- Enhanced due diligence, corporate intelligence and financial-crime advisory for institutions.
+- Romanian delivery centre of UK parent Aperio Intelligence Limited.
+
 ## Size
 - **Employees:** 13 (average, recent filings)
 - **Turnover:** 3,877,975 RON (2021, Coface snippet)
 - **Micro / low-profile (1–10 employees):** No
+
+## Parent / group
+[Aperio Intelligence Limited](parents/aperio-intelligence-limited.md)
+
+## Online presence
+- **Website:** https://aperio-intelligence.com/
+- **LinkedIn:** https://www.linkedin.com/company/aperio-intelligence
+- **Facebook:** https://www.facebook.com/aperiointelligence
+- **X (Twitter):** https://x.com/Aperiointel
+
+## Short history
+- London-based Aperio Intelligence operates a Romania office in Cluj-Napoca ([BRCC](https://brcconline.eu/member/aperio-intelligence-romania-srl/)).
+- UK Companies House PSC filing shows British national Adrian Ford with 75%+ shares in the UK parent ([Companies House](https://find-and-update.company-information.service.gov.uk/company/09164101/persons-with-significant-control)).
+- Romanian entity active in IT consultancy; turnover figure in profile is from 2021 Coface snippet ([InfoQuick](https://www.infoquick.ro/verificare-firme/aperio-intelligence-romania-srl-36709608)).
 
 ## Western link
 - **Relevant people / parent:** Adrian Ford

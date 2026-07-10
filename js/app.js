@@ -23,6 +23,17 @@
   let activeEmployeePreset = "";
   let selectedSlug = companies[0]?.slug ?? null;
 
+  const profileNav = document.getElementById("profile-nav");
+  const profileBack = document.getElementById("profile-back");
+  const profileBreadcrumb = document.getElementById("profile-breadcrumb");
+
+  const parents = (data.parents ?? []).slice();
+  const parentBySlug = Object.fromEntries(parents.map((p) => [p.slug, p]));
+  const companyBySlug = Object.fromEntries(companies.map((c) => [c.slug, c]));
+
+  let activeView = { type: "company", slug: selectedSlug };
+  let returnCompanySlug = selectedSlug;
+
   const employeeCounts = companies
     .map((c) => c.employees)
     .filter((n) => typeof n === "number");
@@ -184,27 +195,92 @@
     }
   }
 
+  function parseInternalHref(href) {
+    if (!href) return null;
+    const parentMatch = href.match(/(?:\.\.\/)?parents\/([^#?]+\.md)/);
+    if (parentMatch) return { type: "parent", slug: parentMatch[1].replace(".md", "") };
+    const companyMatch = href.match(/(?:\.\.\/)?companies\/([^#?]+\.md)/);
+    if (companyMatch) return { type: "company", slug: companyMatch[1].replace(".md", "") };
+    return null;
+  }
+
+  function updateProfileNav() {
+    if (activeView.type === "parent") {
+      const company = companyBySlug[returnCompanySlug];
+      profileNav.hidden = false;
+      profileBreadcrumb.textContent = company
+        ? `Parent company · from ${company.name}`
+        : "Parent company";
+      profileBack.textContent = "← Back to company";
+      return;
+    }
+    profileNav.hidden = true;
+    profileBreadcrumb.textContent = "";
+  }
+
+  function wireInternalLinks() {
+    profileContent.querySelectorAll("a[href]").forEach((anchor) => {
+      const target = parseInternalHref(anchor.getAttribute("href"));
+      if (!target) return;
+      anchor.classList.add("profile-internal");
+      anchor.addEventListener("click", (event) => {
+        event.preventDefault();
+        if (target.type === "parent" && parentBySlug[target.slug]) {
+          showParent(target.slug);
+        } else if (target.type === "company" && companyBySlug[target.slug]) {
+          selectCompany(target.slug);
+        }
+      });
+    });
+  }
+
+  function showParent(slug) {
+    const parent = parentBySlug[slug];
+    if (!parent) return;
+    if (activeView.type === "company") {
+      returnCompanySlug = activeView.slug ?? selectedSlug;
+    }
+    activeView = { type: "parent", slug };
+    profilePlaceholder.hidden = true;
+    profileContent.hidden = false;
+    profileContent.innerHTML = marked.parse(parent.markdown);
+    wireInternalLinks();
+    updateProfileNav();
+  }
+
   function renderProfile(company) {
     if (!company) {
+      activeView = { type: "empty", slug: null };
       profilePlaceholder.hidden = false;
       profileContent.hidden = true;
       profileContent.innerHTML = "";
+      updateProfileNav();
       return;
     }
 
+    activeView = { type: "company", slug: company.slug };
     profilePlaceholder.hidden = true;
     profileContent.hidden = false;
     profileContent.innerHTML = marked.parse(company.markdown);
+    wireInternalLinks();
+    updateProfileNav();
   }
 
   function selectCompany(slug) {
     selectedSlug = slug;
+    returnCompanySlug = slug;
     const company = companies.find((c) => c.slug === slug);
     renderProfile(company);
     [...resultsList.querySelectorAll(".result-item")].forEach((btn) => {
       btn.classList.toggle("selected", btn.dataset.slug === slug);
     });
   }
+
+  profileBack.addEventListener("click", () => {
+    if (returnCompanySlug && companyBySlug[returnCompanySlug]) {
+      selectCompany(returnCompanySlug);
+    }
+  });
 
   function formatEmployeeMeta(company) {
     if (typeof company.employees === "number") {

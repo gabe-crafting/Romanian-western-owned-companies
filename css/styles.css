@@ -280,6 +280,24 @@ h1 {
   padding: 1.25rem 1.5rem 2rem;
 }
 
+.profile-nav {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.profile-breadcrumb {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.profile-content a.profile-internal {
+  cursor: pointer;
+}
+
 .profile-placeholder {
   color: var(--text-muted);
   padding: 2rem 0;
